@@ -23,5 +23,5 @@ Multi-class vehicle classification on the Statlog Vehicle Silhouette dataset
 Python, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
 
 ## Report
-See `Project_Report-Machine_Learning.pdf` for full analysis including 
+See `vehicle_classfication_report.pdf` for full analysis including 
 confusion matrices, per-class precision/recall/F1, and methodology.
